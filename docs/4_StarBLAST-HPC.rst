@@ -58,7 +58,7 @@ It should output something similar to
 Launching Workers on the HPC
 ============================
 
-The HPC uses a .pbs and qsub system to submit jobs.
+For this example, the HPC uses `PBS Pro <https://www.pbspro.org/>`_for job submission and scheduling.
 
 **1.** Create a :code:`.pbs` file that contains the following code and change the :code:`<VARIABLES>` to preferred options:
 
